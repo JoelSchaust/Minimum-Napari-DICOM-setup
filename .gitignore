@@ -3,3 +3,9 @@
 __pycache__/
 *.pyc
 .DS_Store
+
+output_data/**
+input_data/**
+
+!input_data/.gitkeep
+!output_data/.gitkeep 
