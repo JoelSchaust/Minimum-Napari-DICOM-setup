@@ -16,6 +16,7 @@ https://git-scm.com/install/windows
 
 ```bash
 git --version
+```
 
 If a version number is displayed, Git is installed correctly.
 
@@ -28,7 +29,7 @@ If a version number is displayed, Git is installed correctly.
 
 ```bash
 git --version
-
+```
 
 - If a version number appears → Git is ready to use.
 - If not, macOS will prompt you to install the **Command Line Tools**. Confirm the installation.
@@ -47,7 +48,9 @@ It's recommended to not install Anaconda or Miniconda for this setup to avoid de
 
 1. Download Miniforge:
 
-https://github.com/conda-forge/miniforge
+https://github.com/conda-forge/miniforge/releases/latest
+
+
 
 2. Run the installer using the **default settings**.
 
@@ -63,5 +66,6 @@ https://github.com/conda-forge/miniforge
 
 ```bash
 conda --version
+```
 
 - If a version number appears →  ready to use.
