@@ -1,4 +1,7 @@
 # Minimum Setup for opening DICOM files in Napari
+
+## if this is not the first time you are using this workflow, skip step 1-5 completely
+
 ## (1) First time users of Git
 if already have Git installed, skip to step 2  
 
@@ -109,4 +112,29 @@ ls
 - if you get a list of all folders and files -> ready to go 
 
 
+## (4) create napari environment 
 
+if you already created the environment, skipt to step 5 
+
+
+1. Make sure you are inside the project folder.
+
+2. in the terminal, run the following command to create a new envrinoment 
+
+```bash
+mamba env create -f environment.yml
+```
+
+2. to activate the environment (if succesful, the name of the environment (dicom-napari) should appear in the front of the line in the terminal)
+
+```bash
+conda activate dicom-napari
+```
+
+4. to open Napari, run 
+
+```bash 
+napari
+```
+ 
+- If an empty Napari window appears then you are ready to go 
