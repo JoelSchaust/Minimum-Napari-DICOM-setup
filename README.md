@@ -70,3 +70,29 @@ conda --version
 ```
 
 - If a version number appears →  ready to use.
+
+
+## (3) Clone the Repository
+
+If you have already cloned the repository, skip to Step 4.
+
+In this step, we will download the GitHub repository to your local machine.
+
+### Windows & macOS
+
+If this is your first time using Git, it is recommended to create a dedicated folder for your repositories, for example:
+
+Documents/github-repos
+
+1. Navigate to the directory where you want to store the repository.
+
+2. Open a terminal in that directory.
+
+3. Run:
+
+```bash
+git clone https://github.com/JoelSchaust/Minimum-Napari-DICOM-setup.git
+```
+
+
+
