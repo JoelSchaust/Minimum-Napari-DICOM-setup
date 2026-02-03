@@ -14,6 +14,7 @@ https://git-scm.com/install/windows
 
 3. Open **Git Bash** (anywhere) and verify the installation:
 
+```bash
 git --version
 
 If a version number is displayed, Git is installed correctly.
@@ -25,7 +26,9 @@ If a version number is displayed, Git is installed correctly.
 
 2. Check if Git is already installed:
 
+```bash
 git --version
+
 
 - If a version number appears → Git is ready to use.
 - If not, macOS will prompt you to install the **Command Line Tools**. Confirm the installation.
@@ -50,10 +53,15 @@ https://github.com/conda-forge/miniforge
 
 3. Open a terminal:
 
-- **Windows:** Miniforge Prompt  
-- **macOS:** Terminal  
+- **Windows:**  
+  Click the Start menu, search for **"Miniforge Prompt"**, and open it.
+
+- **macOS:**  
+  Press `Cmd + Space`, type **Terminal**, and press Enter.
 
 4. Verify the installation:
 
 ```bash
 conda --version
+
+- If a version number appears →  ready to use.
