@@ -6,3 +6,8 @@
 
 # to avoid clumping in the output folder, the loop should create a new folder for each batch with date and time of conversion 
 
+import pydicom 
+
+data_folder = "input_data/open_batches"
+
+
