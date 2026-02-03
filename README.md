@@ -30,3 +30,30 @@ git --version
 - If a version number appears → Git is ready to use.
 - If not, macOS will prompt you to install the **Command Line Tools**. Confirm the installation.
 
+
+
+## (2) Install Python (Miniforge)
+
+We use **Miniforge** to manage Python and all required packages.
+
+It's recommended to not install Anaconda or Miniconda for this setup to avoid dependency conflicts.
+
+---
+
+### Windows & macOS
+
+1. Download Miniforge:
+
+https://github.com/conda-forge/miniforge
+
+2. Run the installer using the **default settings**.
+
+3. Open a terminal:
+
+- **Windows:** Miniforge Prompt  
+- **macOS:** Terminal  
+
+4. Verify the installation:
+
+```bash
+conda --version
