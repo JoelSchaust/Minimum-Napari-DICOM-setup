@@ -37,6 +37,7 @@ git --version
 
 
 ## (2) Install Python (Miniforge)
+if you already have miniforge installed, skip to step 3
 
 We use **Miniforge** to manage Python and all required packages.
 
