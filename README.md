@@ -94,5 +94,19 @@ Documents/github-repos
 git clone https://github.com/JoelSchaust/Minimum-Napari-DICOM-setup.git
 ```
 
+4. in the terminal, navigate to the project folder 
+
+```bash 
+cd Minimum-Napari-DICOM-setup
+```
+
+5. check if everything was downloaded correctly 
+
+```bash 
+ls 
+```
+
+- if you get a list of all folders and files -> ready to go 
+
 
 
