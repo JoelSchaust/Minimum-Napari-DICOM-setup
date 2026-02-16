@@ -1,6 +1,7 @@
 # Minimum Setup for opening DICOM files in Napari
 
 ## if this is not the first time you are using this workflow, skip step 1-5 completely
+#All commands in this guide should be executed inside the Miniforge Prompt (Windows) or Terminal (macOS).
 
 ## (1) First time users of Git
 if already have Git installed, skip to step 2  
@@ -15,7 +16,7 @@ https://git-scm.com/install/windows
 
 2. Run the installer and keep **all default settings**.
 
-3. Open a terminal (e.g. PowerShell on Windows):
+3. Open a terminal (Miniforgeprompt on Windows):
 
 ```bash
 git --version
