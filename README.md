@@ -15,7 +15,7 @@ https://git-scm.com/install/windows
 
 2. Run the installer and keep **all default settings**.
 
-3. Open **Git Bash** (anywhere) and verify the installation:
+3. Open a terminal (e.g. PowerShell on Windows):
 
 ```bash
 git --version
