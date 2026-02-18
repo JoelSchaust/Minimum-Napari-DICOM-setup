@@ -50,7 +50,7 @@ cd D:\OCT_Project
 
 Verify the script is present:
 ```bash
-dir -> should list everythin in the active directory 
+dir -> should list everything in the active directory - including the choroid_viewer.py file 
 ```
 start the viewer.
 
