@@ -36,7 +36,7 @@ Open **Miniforge Prompt** from the Windows Start menu.
 
 ```bash
 conda activate dicom-napari
-
+```
 you should now see (dicom-napari) at the start of the terminal prompt line 
 
 ### 3 Navigate to the working directory 
@@ -46,17 +46,17 @@ Example (script located on drive D:):
 ```bash
 D:
 cd D:\OCT_Project
-
+```
 
 Verify the script is present:
 ```bash
 dir -> should list everythin in the active directory 
-
+```
 start the viewer.
 
 ```bash
 python choroid_viewer.py
-
+```
 
 ## Usage & Controls
 
