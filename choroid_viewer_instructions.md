@@ -81,7 +81,8 @@ After launching the viewer, images can be reviewed and rated using keyboard shor
 | ↓   | Mark image as **BAD (0)** |
 
 The current rating status is displayed in the napari status bar.
-
+Rating an image will automatically switch to the next image in line.
+Rating can be overwritten by navigating to the image and re-rating it again 
 ---
 
 ### Saving Results
