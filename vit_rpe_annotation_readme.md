@@ -189,9 +189,5 @@ annotated_images/
 ```
 
 ---
+## for specific questions about special cases for annotation, e.g. common errors in images and unidentifieable RPE/VIT borders please refer to the grading manual 
 
-## Summary
-
-This tool is intended for fast and structured manual annotation of OCT batches in Napari, with:
-
-- simple b
