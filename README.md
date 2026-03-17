@@ -29,7 +29,15 @@ If a version number is displayed, Git is installed correctly.
 
 1. Open the Terminal.
 
-2. Check if Git is already installed:
+2. Open a terminal:
+
+- **Windows:**  
+  Click the Start menu, search for **"Miniforge Prompt"**, and open it.
+
+- **macOS:**  
+  Press `Cmd + Space`, type **Terminal**, and press Enter.
+
+3. Check if Git is already installed:
 
 ```bash
 git --version
