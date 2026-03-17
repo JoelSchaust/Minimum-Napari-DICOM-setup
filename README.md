@@ -146,4 +146,7 @@ conda activate dicom-napari
 napari
 ```
  
-- If an empty Napari window appears then you are ready to go 
+- If an empty Napari window appears then you are ready to go
+
+
+error on macos (requires pyqt5?)
