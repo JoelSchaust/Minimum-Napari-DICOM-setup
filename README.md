@@ -115,7 +115,7 @@ cd Minimum-Napari-DICOM-setup
 5. check if everything was downloaded correctly 
 
 ```bash 
-ls 
+dir 
 ```
 
 - if you get a list of all folders and files -> ready to go 
